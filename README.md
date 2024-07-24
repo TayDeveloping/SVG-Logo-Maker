@@ -20,3 +20,45 @@ SVG Logo Maker is a command-line tool that generates simple, customizable logos 
    ```bash
    git clone <repository-url>
    cd SVG-Logo-Maker
+
+2. **Install dependencies**:
+
+   ```bash
+   npm install
+   
+## Usage
+
+Run the application using Node.js:
+
+```bash
+node index.js
+
+Follow the prompts to input:
+
+Up to three characters for the logo text.
+Text color (keyword or hexadecimal).
+Shape (Circle, Triangle, Square).
+Shape color (keyword or hexadecimal).
+After completing the prompts, a logo.svg file will be created in the project directory.
+
+Features
+Supports customizable text and colors.
+Offers three shape options: Circle, Triangle, Square.
+Generates a 300x200 pixel SVG logo.
+Testing
+The application uses Jest for testing. To run tests:
+
+bash
+Copy code
+npm test
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
