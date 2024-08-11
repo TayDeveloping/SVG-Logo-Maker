@@ -29,8 +29,7 @@ SVG Logo Maker is a command-line tool that generates simple, customizable logos 
 ## Usage
 
 Run the application using Node.js:
-
-```bash
+  
 node index.js
 
 Follow the prompts to input:
@@ -63,9 +62,7 @@ Commit your changes (git commit -m 'Add feature').
 Push to the branch (git push origin feature-branch).
 Open a pull request.
 
-<<<<<<< HEAD
+===========
 
-=======
-WATCH HOW TO:
-[Untitled_ Jul 23, 2024 9_38 PM.webm](https://github.com/user-attachments/assets/596fed61-d0c4-47c8-b7c9-d2493b6c19b8)
->>>>>>> ec9427c2ea5b50808242d393e555cfe1293a18a1
+## WATCH HOW TO VIDEO
+(https://vimeo.com/997488737?share=copy)
